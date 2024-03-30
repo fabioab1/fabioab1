@@ -4,8 +4,6 @@ Sou um estudante na Faculdade de Tecnologia de Presidente Prudente do curso Tecn
 
 Estou estudando tecnologias como C# e .NET. No estágio, presto suporte para os funcionários do Posto de Saúde solucionando problemas voltados à area de tecnologia e realizando a manutenção de computadores.
 
-&nbsp;
-&nbsp;
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioab1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=fabioab1&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) -->
