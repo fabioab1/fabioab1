@@ -9,7 +9,7 @@ Estou estudando tecnologias como C# e .NET. No estágio, presto suporte para os 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=fabioab1&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div style="display: inline_block">
-  <img align="center" alt="Logo-Java" height="40" width="40" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png">
+  <img align="center" alt="Logo-Java" height="46" width="24" src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/243px-Java-Logo.svg.png?20061221200047">
   <img align="center" alt="Logo-Cs" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png">
   <img align="center" alt="Logo-Python" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png">
   <img align="center" alt="Logo-HTML5" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png">
